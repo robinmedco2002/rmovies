@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robinmedco2002/rmovies.git/static/css/main.e800d87a.chunk.css",
+    "main.js": "/robinmedco2002/rmovies.git/static/js/main.7c6b5360.chunk.js",
+    "main.js.map": "/robinmedco2002/rmovies.git/static/js/main.7c6b5360.chunk.js.map",
+    "runtime-main.js": "/robinmedco2002/rmovies.git/static/js/runtime-main.aed80ba4.js",
+    "runtime-main.js.map": "/robinmedco2002/rmovies.git/static/js/runtime-main.aed80ba4.js.map",
+    "static/css/2.2894c9e2.chunk.css": "/robinmedco2002/rmovies.git/static/css/2.2894c9e2.chunk.css",
+    "static/js/2.8367198d.chunk.js": "/robinmedco2002/rmovies.git/static/js/2.8367198d.chunk.js",
+    "static/js/2.8367198d.chunk.js.map": "/robinmedco2002/rmovies.git/static/js/2.8367198d.chunk.js.map",
+    "index.html": "/robinmedco2002/rmovies.git/index.html",
+    "static/css/2.2894c9e2.chunk.css.map": "/robinmedco2002/rmovies.git/static/css/2.2894c9e2.chunk.css.map",
+    "static/css/main.e800d87a.chunk.css.map": "/robinmedco2002/rmovies.git/static/css/main.e800d87a.chunk.css.map",
+    "static/js/2.8367198d.chunk.js.LICENSE.txt": "/robinmedco2002/rmovies.git/static/js/2.8367198d.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/robinmedco2002/rmovies.git/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.67e95f05.jpg": "/robinmedco2002/rmovies.git/static/media/footer-bg.67e95f05.jpg",
+    "static/media/tmovie.67797e94.png": "/robinmedco2002/rmovies.git/static/media/tmovie.67797e94.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aed80ba4.js",
+    "static/css/2.2894c9e2.chunk.css",
+    "static/js/2.8367198d.chunk.js",
+    "static/css/main.e800d87a.chunk.css",
+    "static/js/main.7c6b5360.chunk.js"
+  ]
+}
